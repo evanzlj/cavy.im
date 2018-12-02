@@ -25,3 +25,18 @@ yarn start
 
 ### Run API
 
+In api, we use [strapi](https://github.com/strapi/strapi)
+
+Install dependence
+
+```shell
+yarn
+```
+
+Run it
+
+```shell
+strapi start
+```
+
+then open `http://localhost:1337/admin/` to see the dashboard
