@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "postgres",
+        "host": "rm-2zer744i305u28i0rzo.pg.rds.aliyuncs.com",
+        "srv": false,
+        "port": "3432",
+        "database": "cavy",
+        "username": "saleor",
+        "password": "Aa123456"
+      },
+      "options": {
+        "ssl": false
+      }
+    }
+  }
+}
